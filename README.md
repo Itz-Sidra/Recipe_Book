@@ -23,4 +23,4 @@ This project is a simple **Recipe Book** web application that fetches and displa
 - Click the "View Recipe" link under each recipe to see the full recipe on Spoonacular.
 
 ## Live Demo
-You can view the live demo here: ()
+You can view the live demo here: (https://recipebook-sidra.netlify.app/)
